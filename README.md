@@ -6,6 +6,9 @@ A Node.js REST API is an API that uses the Node.js runtime  to build and expose 
 
 This readme file provides a short introduction to the Node.js REST API for a contact manager app.
 
+*Get all Contacts api Endpoint*
 
-![image](https://user-images.githubusercontent.com/55556198/208494348-804fff71-e585-4d53-a3ff-80069f7b8739.png)
+
+![image](https://user-images.githubusercontent.com/55556198/208495537-b105e683-f542-4360-8af2-8e28b5bd193e.png)
+
 
