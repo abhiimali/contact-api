@@ -6,9 +6,18 @@ A Node.js REST API is an API that uses the Node.js runtime  to build and expose 
 
 This readme file provides a short introduction to the Node.js REST API for a contact manager app.
 
-*Get all Contacts api Endpoint*
+API Documentation 
 
+```
+  GET  /api/contact   Get All Contacts 
+  
+  GET /api/contacts/:id   Get Information About Specific Contact 
+  
+  POST /api/contacts/  Add New Contact Via Request Body 
+  
+  Other Methods Supported PUT  And DELETE To Update And Delete Contact 
 
-![image](https://user-images.githubusercontent.com/55556198/208495537-b105e683-f542-4360-8af2-8e28b5bd193e.png)
+```
 
+Live Here :)  https://contactapi.vercel.app/api/contacts/
 
